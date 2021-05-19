@@ -1,10 +1,10 @@
 {
   "locales": [
-    "en-BE",
-    "es-ES",
-    "es-AR"
+    "en-be",
+    "es-es",
+    "es-ar"
   ],
-  "defaultLocale": "en-BE",
+  "defaultLocale": "en-be",
   "pages": {
     "*": [
       "common"
