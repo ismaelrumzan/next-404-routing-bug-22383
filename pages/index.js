@@ -30,6 +30,11 @@ export default function IndexPage(props) {
                 <a>Go to es-AR</a>
             </Link>
             <br/>
+
+            <Link href="/oh-no-wrong-page" >
+                <a>Go to 404</a>
+            </Link>
+            <br/>
         </div>
     )
 }
