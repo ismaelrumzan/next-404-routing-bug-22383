@@ -11,5 +11,14 @@ module.exports = {
                 "common"
             ]
         }
-    }
+    },
+    async redirects() {
+        return [
+          {
+            source: '/en-BE/:slug*',
+            destination: '/404/:slug*',
+            permanent: true,
+          },
+        ]
+      },
 }
