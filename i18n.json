@@ -4,7 +4,7 @@
     "es-es",
     "es-ar"
   ],
-  "defaultLocale": "en-BE",
+  "defaultLocale": "en-be",
   "pages": {
     "*": [
       "common"
